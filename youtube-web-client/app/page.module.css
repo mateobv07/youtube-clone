@@ -1,0 +1,26 @@
+.main {
+  display: flex;
+}
+
+.thumbnail {
+  margin: 10px;
+  margin-bottom: 0px;
+  border-radius: 10px;
+}
+
+.thumbnailContainer {
+  margin: 10px;
+  display: flex;
+  width: 200px;
+  height: auto;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+
+.videoTitle {
+  text-decoration: none !important;
+  color: black;
+  margin-top: 5px;
+}
